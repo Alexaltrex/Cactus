@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Cactus/static/css/main.ea774685.css",
+    "main.js": "/Cactus/static/js/main.37d7dcba.js",
+    "static/js/787.c1112931.chunk.js": "/Cactus/static/js/787.c1112931.chunk.js",
+    "static/media/back-desktop.png": "/Cactus/static/media/back-desktop.70aabe4bae1f735f7990.png",
+    "static/media/back-desktop2.png": "/Cactus/static/media/back-desktop2.fcec50b5b3496cb4ac66.png",
+    "static/media/rarity.gif": "/Cactus/static/media/rarity.ca3955ee84a901bcabda.gif",
+    "static/media/back-img-left.png": "/Cactus/static/media/back-img-left.8940815d28265e68d9c4.png",
+    "static/media/back-img-right.png": "/Cactus/static/media/back-img-right.e844bd8dfeb007d9431f.png",
+    "static/media/back-mobile.png": "/Cactus/static/media/back-mobile.51c2b80483cb849f3be7.png",
+    "static/media/cactuses.png": "/Cactus/static/media/cactuses.c29884e8ffef7edb8d34.png",
+    "static/media/impact.ttf": "/Cactus/static/media/impact.0294f8285a2493417c09.ttf",
+    "static/media/footer-logo.png": "/Cactus/static/media/footer-logo.4a5c286fd4ade85d3941.png",
+    "static/media/header-logo.png": "/Cactus/static/media/header-logo.934994389d9c66256de3.png",
+    "static/media/card1.png": "/Cactus/static/media/card1.c0184d2383b883b196ba.png",
+    "static/media/card0.png": "/Cactus/static/media/card0.43c58de5a232e638bb0f.png",
+    "static/media/card3.png": "/Cactus/static/media/card3.ab7aee0beb2e3630f91d.png",
+    "static/media/card2.png": "/Cactus/static/media/card2.12311d8675ffb45aea65.png",
+    "index.html": "/Cactus/index.html",
+    "main.ea774685.css.map": "/Cactus/static/css/main.ea774685.css.map",
+    "main.37d7dcba.js.map": "/Cactus/static/js/main.37d7dcba.js.map",
+    "787.c1112931.chunk.js.map": "/Cactus/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea774685.css",
+    "static/js/main.37d7dcba.js"
+  ]
+}
